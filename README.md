@@ -36,6 +36,8 @@
 
 # Citing
 
+## IITI-HRF
+
 ```bibtex
 @article{anand2020porenet,
   title={PoreNet: CNN-based pore descriptor for high-resolution fingerprint recognition},
@@ -57,5 +59,19 @@
   number={1},
   pages={555-564},
   publisher={IEEE}
+}
+```
+
+## IITI-HRF-E
+
+```bibtex
+@inproceedings{nema2022fast,
+  title={Fast High-Resolution Fingerprint Recognition using Domain-Knowledge Infused Global Descriptors},
+  author={Nema, Aneesh and Anand, Vijay and Kanhangad, Vivek},
+  booktitle={2022 18th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)},
+  pages={1--8},
+  year={2022},
+  organization={IEEE},
+  doi={10.1109/AVSS56176.2022.9959396}
 }
 ```
